@@ -42,15 +42,7 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-lg mb-4">Contact Us</h4>
             <ul className="space-y-2">
-              <li className="flex items-start">
-                <Mail size={20} className="text-gray-400 mr-2 mt-0.5 flex-shrink-0" />
-                <a
-                  href="https://webutsav.com/"
-                  className="text-gray-400 hover:text-white transition-colors duration-200"
-                >
-                  https://webutsav.com/
-                </a>
-              </li>
+             
               <li className="flex items-start">
                 <Phone size={20} className="text-gray-400 mr-2 mt-0.5 flex-shrink-0" />
                 <a
