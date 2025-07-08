@@ -8,7 +8,7 @@ export async function GET() {
     "/pricing",
     "/testimonials",
     "/faq",
-    // "/contact",
+    "/contact",
     // "/AdminDashboard",
     "/AddCab",
     "/CabInfo",
